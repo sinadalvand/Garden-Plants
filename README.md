@@ -14,6 +14,13 @@ I have tried to use new widget and some custom one to make it exactly like dribb
 <img src="https://github.com/sinadalvand/Garden-Plants/blob/master/art/screen1.png" width="250"/> | <img src="https://github.com/sinadalvand/Garden-Plants/blob/master/art/screen2.png" width="250"/> 
 
 
+   
+### known issue
+```
+when scrolling panel , after arrive to top of the list , instead collapse panel , list will animate :(  !
+if you can fix and and pull request!
+```
+
 
 # Licence
 
